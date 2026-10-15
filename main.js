@@ -252,7 +252,7 @@ function renderHome(container) {
         <div class="hero__overlay">
           <div class="hero__tag">🌿 Modelo Pedagógico TERRA · Grado 6°</div>
           <h1 class="hero__title">Ciencia desde<br>la Raíz</h1>
-          <p class="hero__sub">I.E. Sor María Juliana · Cartago, Valle del Cauca · PhD. Álvaro Cárdenas Orozco</p>
+          <p class="hero__sub">I.E. Sor María Juliana · Cartago, Valle del Cauca · PhD. Alvaro Cardenas Orozco</p>
         </div>
       </div>
 
